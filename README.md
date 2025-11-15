@@ -3,8 +3,8 @@
 ## Technical Support
 
 For technical assistance, please contact:
-- Email: support@yourcompany.com
-- Business hours: Monday-Friday 9AM-5PM
+- Email: support@kings.nuersery.com
+- Business hours: Monday-Friday 7AM-5PM
 
 ---
 
@@ -17,7 +17,7 @@ For technical assistance, please contact:
 - Password (stored in encrypted form)
 
 ### Use of Information:
-This app is for internal use exclusively by employees of [Your Company Name].
+This app is for internal use exclusively by employees of [King's Nursery].
 Data is used only for:
 - User authentication
 - Application functionality
@@ -38,4 +38,4 @@ Data is retained while the employee remains active.
 Employees may request access to or deletion of their data.
 
 ### Contact:
-For privacy inquiries: privacy@yourcompany.com
+For privacy inquiries: privacy@king's.nursery.com
