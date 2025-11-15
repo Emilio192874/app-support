@@ -3,7 +3,7 @@
 ## Technical Support
 
 For technical assistance, please contact:
-- Email: support@kings.nuersery.com
+- Email: support@kings.nursery.com
 - Business hours: Monday-Friday 7AM-5PM
 
 ---
