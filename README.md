@@ -10,7 +10,7 @@ For technical assistance, please contact:
 
 ## Privacy Policy
 
-**Last updated:** November 14, 2025
+**Last updated:** November 19, 2025
 
 ### Information We Collect:
 - Corporate email address (for authentication)
@@ -32,10 +32,10 @@ We do not share personal information with third parties.
 Passwords are encrypted. We use secure connections (HTTPS/SSL).
 
 ### Data Retention:
-Data is retained while the employee remains active.
+Data is retained while the employee remains active. Users may delete their account at any time through the app settings.
 
 ### User Rights:
-Employees may request access to or deletion of their data.
+Employees may request access to or deletion of their data. Users can delete their account directly within the app, which will permanently remove all associated personal information from our servers within 30 days.
 
 ### Contact:
 For privacy inquiries: privacy@king's.nursery.com
